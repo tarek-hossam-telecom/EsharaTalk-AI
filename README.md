@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> ### ⚠️ Status: Work in Progress (WIP)
+> This project is currently under active development. I'm working on adding more signs and improving the AI model accuracy.
+> 
 # 🖐️ EsharaTalk EG - Egyptian Sign Language Translator
 An AI-powered application that translates Egyptian Sign Language into spoken Arabic in real-time.
 
@@ -12,6 +16,3 @@ An AI-powered application that translates Egyptian Sign Language into spoken Ara
 - OpenCV & MediaPipe (Computer Vision)
 - Streamlit (Web Framework)
 - gTTS (Google Text-to-Speech)
-
-- ⚠️ Status: Work in Progress (WIP)
-This project is currently under active development. I'm working on adding more signs and improving the AI model accuracy.
